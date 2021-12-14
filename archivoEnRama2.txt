@@ -1,0 +1,2 @@
+Este es un archivo creado en la rama 2 del repositorio en Git Hub
+
